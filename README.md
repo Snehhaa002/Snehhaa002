@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋, I'm Sneha Mondal
 
-<!--
-**Snehhaa002/Snehhaa002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CSE Undergraduate | Aspiring Software Developer 💻
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering student who is passionate about learning programming and building my skills step by step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning **Java, Python & DSA**
+
+💡 Interested in **Software Development & Problem Solving**
+
+📚 Exploring **Git, GitHub and programming fundamentals**
+
+🎯 Goal: Become a skilled **Software Developer**
+
+---
+
+## 🛠️ Skills I'm Learning
+
+- Java
+- Python
+- Data Structures & Algorithms
+- Git & GitHub
+- SQL
+
+---
+
+## 📌 Currently Working On
+
+- Improving my programming fundamentals
+- Practicing DSA
+- Building beginner-friendly projects
+- Learning new technologies
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: [@Snehaa002](https://github.com/Snehaa002)
+
+---
+
+⭐ Thanks for visiting my profile!
